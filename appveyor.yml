@@ -1,4 +1,4 @@
-  environment:
+environment:
   matrix:
   - nodejs_version: "12"
 install:
